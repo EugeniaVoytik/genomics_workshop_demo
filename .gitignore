@@ -1,4 +1,4 @@
 build
 dist
-.pytest_cashe
+.pytest_cache
 *.egg_info
